@@ -2,15 +2,21 @@
 rsync
 =====
 
+rsync ported by Python2
 
-Add a short description here!
+Syncs/mirrors files and folders between remote machines over ssh
 
+Written by Vivian De Smedt
 
-Description
-===========
+Send comments or bug reports to vivian@vdesmedt.com.
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
+Thank You
+=========
 
+* William Tan for support in tuning rsync.py to support unicode path
+* Luc Saffre for bug reports and fixes.
+* Hobson Lane for linting and pypi wrapping
+* PyScaffolding for standardizing the package layout and setup/install
 
 Note
 ====
